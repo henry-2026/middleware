@@ -4,3 +4,6 @@
 [submodule "caddy"]
 	path = caddy
 	url = https://github.com/henry-2026/caddy.git
+[submodule "mariadb"]
+	path = mariadb
+	url = https://github.com/henry-2026/mariadb.git
