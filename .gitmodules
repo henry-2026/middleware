@@ -1,3 +1,6 @@
 [submodule "redis"]
 	path = redis
 	url = https://github.com/hengchen2023/redis.git
+[submodule "caddy"]
+	path = caddy
+	url = https://github.com/henry-2026/caddy.git
