@@ -7,3 +7,6 @@
 [submodule "mariadb"]
 	path = mariadb
 	url = https://github.com/henry-2026/mariadb.git
+[submodule "postgresql"]
+	path = postgresql
+	url = https://github.com/henry-2026/postgresql.git
