@@ -10,3 +10,6 @@
 [submodule "postgresql"]
 	path = postgresql
 	url = https://github.com/henry-2026/postgresql.git
+[submodule "octave"]
+	path = octave
+	url = https://github.com/henry-2026/octave.git
